@@ -10,7 +10,7 @@ export default function Home() {
             <ThemeToggle />
           </div>
           <h1 className="text-3xl md:text-4xl font-bold text-foreground mb-2 text-balance">
-            Calculadora de Interés Compuesto s
+            Calculadora de Interés Compuesto
           </h1>
           <p className="text-muted-foreground text-lg">Optimiza tu estrategia de trading con crecimiento exponencial</p>
         </header>
