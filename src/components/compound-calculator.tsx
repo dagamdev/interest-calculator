@@ -79,7 +79,7 @@ export function CompoundCalculator() {
     <div className="space-y-6">
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         {/* Panel de configuración */}
-        <Card className="lg:col-span-1 border-border bg-card h-fit">
+        <Card className="lg:col-span-1 border-border bg-card h-fit sticky top-0">
           <CardHeader className="pb-4">
             <CardTitle className="flex items-center gap-2 text-foreground">
               <Calculator className="h-5 w-5 text-accent" />
